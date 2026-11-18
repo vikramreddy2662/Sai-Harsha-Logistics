@@ -14,9 +14,11 @@ The [discovery prompt](codex-discovery-prompt.md) holds the complete interview b
 
 | ID | Status | Outstanding decision or information |
 | --- | --- | --- |
-| D02 | Proposed | Identify the vehicle classes covered by existing permits and verify freight, passenger and port operating requirements for the chosen services. |
-| D03 | Proposed | Confirm estimate inputs for freight and passenger services, how to handle missing rates, and how customers accept a revised final price. |
-| D06 | Proposed | Confirm any existing GPS provider and its coverage across owned and partner vehicles. Define source priority when both feeds are available and handling of signal loss, approved detours and alerts. |
+| D02 | Proposed | Identify the vehicle classes covered by existing permits and verify freight, passenger and port eligibility. Name the launch terminals and confirm their gate, appointment and document handoffs. |
+| D03 | Proposed | Validate estimates against one redacted freight job and one redacted cab trip. Agree on rate factors, missing-rate fallback and customer acceptance of a revised final price. |
+| D06 | Proposed | Confirm existing GPS providers, counts for owned and partner vehicles, and driver phone types. Validate background tracking, source handover, signal age and dispatch procedures when both feeds are unavailable. |
+| D08, D15 | Proposed | Confirm payment methods and when to collect payment. Assign responsibility for invoices, consignment notes, e-way bill handling, delivery proof, and partner settlement. |
+| D13 | Proposed | Confirm who responds to route deviations, breakdowns, failed deliveries and passenger assistance requests, including after hours. |
 | D14 | Proposed | Confirm branch locations, if any. Confirm launch service details and fleet counts in a later round. |
 
 ### Launch GPS verification
