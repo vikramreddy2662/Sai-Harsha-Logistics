@@ -64,6 +64,8 @@ Verify current India-specific permit, document, invoicing, privacy, and operatio
 
 ## 4. Interview the owner and retain the decisions
 
+Read the [decision register](decision-register.md) before each interview round. Use it as the current record of confirmed choices and outstanding follow-ups.
+
 Ask the questions in groups of roughly five. Explain what each option changes for the customer, the operations team, launch timing, and costs when material. Allow a custom answer or “defer.” A recommendation remains proposed until the owner accepts it. Reuse prior answers and ask focused follow-ups where needed.
 
 | ID | Decision | Options and suggested starting point |
