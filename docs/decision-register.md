@@ -7,16 +7,18 @@ The [discovery prompt](codex-discovery-prompt.md) holds the complete interview b
 | D14 | Business operating status and headquarters | Confirmed | Already operating in Telangana and Andhra Pradesh. Headquarters in Hyderabad, Telangana. | 2026-11-18 | Company profile, coverage page and operations discovery. |
 | D02 | Freight service coverage | Confirmed | Option B. Domestic freight across India, including freight pickup and delivery at Indian ports. | 2026-11-18 | Freight service catalogue, quote form and port collection or delivery workflow. |
 | D01 | First-release scope | Confirmed | Option B. Launch freight and passenger cab booking together, with live GPS and route-deviation alerts on every trip. | 2026-11-18 | Customer tracking, dispatch monitoring, driver workflow, GPS integration and launch acceptance criteria. |
+| D03 | Pricing and booking confirmation | Confirmed | Option C. Show customer-facing estimates for both freight and passenger cab bookings. Staff confirm the final price and booking. | 2026-11-18 | Estimate rules, quote review and booking confirmation. |
+| D06 | Launch GPS sources | Confirmed | Option C. Support vehicle GPS devices and driver phone location. | 2026-11-18 | Device and mobile tracking integrations, dispatch monitoring and route-deviation alerts. |
 
 ## Open follow-ups
 
 | ID | Status | Outstanding decision or information |
 | --- | --- | --- |
 | D02 | Proposed | Identify the vehicle classes covered by existing permits and verify freight, passenger and port operating requirements for the chosen services. |
-| D03 | Proposed | Choose staff-only quotes or customer-facing estimates. Staff confirmation of the booking remains part of the workflow. |
-| D06 | Proposed | Choose the launch GPS source: vehicle devices, driver phones, or both. Confirm any existing provider and coverage across owned and partner vehicles. Define signal loss, approved detours, and alert handling for launch. |
+| D03 | Proposed | Confirm estimate inputs for freight and passenger services, how to handle missing rates, and how customers accept a revised final price. |
+| D06 | Proposed | Confirm any existing GPS provider and its coverage across owned and partner vehicles. Define source priority when both feeds are available and handling of signal loss, approved detours and alerts. |
 | D14 | Proposed | Confirm branch locations, if any. Confirm launch service details and fleet counts in a later round. |
 
 ### Launch GPS verification
 
-The first-release scope applies to freight and cab trips, including those fulfilled by partner vehicles. Verify that each vehicle or assigned driver can supply GPS data through an approved method. Define how dispatch handles a missing or stale signal and how customers see the last known status. Keep these operating rules open until the GPS source and coverage are confirmed.
+The first-release scope applies to freight and cab trips, including those fulfilled by partner vehicles. Verify that each vehicle or assigned driver can supply GPS data through a supported source. Define how dispatch handles a missing or stale signal and how customers see the last known status. Confirm provider coverage and the operating rules during discovery.
